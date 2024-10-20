@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite" thread-count="5"  parallel="tests">
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager"></listener>
+	</listeners>
+	
+  <test name="ChromeTest">
+  	<parameter name="OS" value="Windows"></parameter>
+  	<parameter name="Browser" value="Chrome"></parameter>
+    	<classes>
+      		<class name="testCases.TC001_AccountRegistrationTest"/>
+    	</classes>
+  </test> <!-- Test -->
+  
+  <test name="EdgeTest">
+	  <parameter name="OS" value="Windows"></parameter>
+	  <parameter name="Browser" value="Edge"></parameter>
+	    <classes>
+	  		<class name="testCases.TC001_AccountRegistrationTest"/>
+	    </classes>
+  </test> <!-- Test -->
+  
+  <!-- Firefox is not installed in my local thats why its commented-->
+  <!--<test name="FirefoxTest">	
+  <parameter name="OS" value="Windows"></parameter>
+  <parameter name="Browser" value="Firefox"></parameter>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test> -->
+  
+</suite> <!-- Suite -->

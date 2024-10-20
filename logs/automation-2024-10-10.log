@@ -1,0 +1,39 @@
+18:46:10:322 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:46:10:503 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:46:11:546 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:46:11:549 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+18:46:14:648 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+18:46:14:782 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+18:48:38:621 [main] INFO  org.testng.internal.Utils INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\ProjectOpenCart\CrossBrowserTest.xml
+
+18:48:47:343 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:48:47:868 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:48:48:673 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:48:48:681 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+18:48:51:716 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+18:48:51:869 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+18:48:58:857 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:48:59:026 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:49:00:255 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:49:00:256 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+18:49:03:249 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+18:49:03:373 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+18:50:38:191 [main] INFO  org.testng.internal.Utils INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\ProjectOpenCart\CrossBrowserTest.xml
+
+18:50:45:388 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:50:45:690 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:50:45:716 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:50:45:927 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:50:46:748 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:50:46:751 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+18:50:46:849 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:50:46:850 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+18:50:49:078 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+18:50:49:150 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+18:50:49:197 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+18:50:49:229 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+19:19:54:919 [main] INFO  org.testng.internal.Utils INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\ProjectOpenCart\master.xml
+

@@ -1,0 +1,41 @@
+15:51:32:701 [main] INFO  org.testng.internal.Utils INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml
+
+15:52:19:152 [main] DEBUG org.testng.TestNG DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml"
+15:52:19:612 [main] INFO  org.testng.internal.Utils INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml
+
+15:52:52:970 [main] DEBUG org.testng.TestNG DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml"
+15:52:53:579 [main] INFO  org.testng.internal.Utils INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml
+
+15:53:05:088 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+15:53:05:356 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:53:06:764 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:53:06:770 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+15:53:10:943 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+15:53:11:085 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+15:53:21:480 [main] INFO  testCases.TC002_LoginTest INFO testCases.TC002_LoginTest - TC002_LoginTest - Test case finished
+15:53:49:383 [main] INFO  testCases.TC002_LoginTest INFO testCases.TC002_LoginTest - TC002_LoginTest - Test case finished
+17:02:46:545 [main] DEBUG org.testng.TestNG DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml"
+17:03:06:048 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+17:03:06:262 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:03:09:618 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:03:09:670 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+17:03:15:846 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+17:03:15:918 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+17:03:40:445 [main] INFO  testCases.TC002_LoginTest INFO testCases.TC002_LoginTest - TC002_LoginTest - Test case finished
+17:23:22:230 [main] DEBUG org.testng.TestNG DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml"
+17:23:33:015 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+17:23:33:285 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:23:34:711 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:23:34:719 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+17:23:38:352 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
+17:23:38:435 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+17:23:50:489 [main] INFO  testCases.TC002_LoginTest INFO testCases.TC002_LoginTest - TC002_LoginTest - Test case finished
+17:35:45:158 [main] DEBUG org.testng.TestNG DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\E_ProjectOpenCart\master.xml"
+17:35:58:256 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+17:35:58:594 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:36:00:718 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:36:00:727 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+17:36:03:460 [main] INFO  testCases.TC001_AccountRegistrationTest INFO testCases.TC001_AccountRegistrationTest - Validating expected Message
